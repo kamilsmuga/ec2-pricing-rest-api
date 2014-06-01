@@ -52,4 +52,4 @@ coverage.xml
 docs/_build/
 
 # idea project files
-# .idea
+.idea
